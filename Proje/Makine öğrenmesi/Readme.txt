@@ -1,0 +1,1 @@
+Veri setinde hastalıklı ve hastalığa sahip olmayan bireyler arasında çok fark olduğu için oldukça dengesiz bir halde bu yüzden yapılan deneyler yeterince sağlıklı olmayacaktır.Bu yüzden yapılan çalışmada hem veri dengelemeli hemde veri dengelemesiz olarak ayrı ayrı test edilmiştir.
